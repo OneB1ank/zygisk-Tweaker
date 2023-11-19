@@ -1,0 +1,26 @@
+A1Memroy
+
+Third-Party Software Notices and Information
+============================================
+
+This repository incorporates components from the following projects:
+
+1. Dobby (https://github.com/jmpews/Dobby): a lightweight, multi-platform, multi-architecture hook framework.
+
+   - License: Apache License 2.0 (https://github.com/jmpews/Dobby/blob/master/LICENSE)
+   - Copyright: jmpews
+   - Other relevant information: Please refer to the Dobby project for additional details and acknowledgments.
+
+2. json (https://github.com/nlohmann/json): JSON for Modern C++
+
+   - License: MIT License (https://github.com/nlohmann/json/blob/develop/LICENSE.MIT)
+   - Copyright: nlohmann
+   - Other relevant information: Please refer to the json project for additional details and acknowledgments.
+
+3. xdl (https://github.com/hexhacking/xDL): 🔥 xDL is an enhanced implementation of the Android DL series functions.
+   - License: MIT License (https://github.com/hexhacking/xDL/blob/master/LICENSE)
+   - Copyright: hexhacking
+   - Other relevant information: Please refer to the xDL project for additional details and acknowledgments.
+
+Please refer to the individual components' licenses and original sources for more detailed information.
+The licenses and copyright notices for each component can be found in their respective source code files or accompanying documentation.

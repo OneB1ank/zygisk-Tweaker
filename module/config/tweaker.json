@@ -1,0 +1,132 @@
+{
+    "project": {
+        "author": "火機@coolapk",
+        "name": "官方配置 [23.11.02]"
+    },
+    "modules": {
+        "settings": {
+            "fps_unlock": true,
+            "refresh_rate": "144"
+        },
+        "game": [
+            {
+                "package": ["com.riotgames.league.teamfighttactics", "com.tencent.jkchess"],
+                "tweaker" : [
+                    {
+                        "rate": 165,
+                        "brand": "ASUS",
+                        "model": "ASUS_AI2201_B",
+                        "device": ""
+                    },
+                    {
+                        "rate": 144,
+                        "brand": "Lenovo",
+                        "model": "Lenovo TB320FC",
+                        "device": ""
+                    },
+                    {
+                        "rate": [90,120],
+                        "brand": "Xiaomi",
+                        "model": "23046RP50C",
+                        "device": ""
+                    }
+                ]
+            },
+            {
+                "package": "com.tencent.tmgp.sgame",
+                "tweaker" : [
+                    {
+                        "rate": 120,
+                        "brand": "Nubia",
+                        "model": "NX729J",
+                        "device": ""
+                    },
+                    {
+                        "rate": 90,
+                        "brand": "vivo",
+                        "model": "V2025A",
+                        "device": ""
+                    }
+                ]
+            },
+            {
+                "package": "com.tencent.tmgp.pubgmhd",
+                "tweaker" : [
+                    {
+                        "rate": 90,
+                        "brand": "vivo",
+                        "model": "V2304A",
+                        "device": ""
+                    }
+                ]
+            },
+            {
+                "package": ["com.activision.callofduty.shooter","com.garena.game.codm","com.tencent.tmgp.cod"],
+                "tweaker" : [
+                    {
+                        "rate": [90,120],
+                        "brand": "Lenovo",
+                        "model": "Lenovo TB-9707F",
+                        "device": ""
+                    }
+                ]
+            },
+            {
+                "package": "com.tencent.lolm",
+                "tweaker" : [
+                    {
+                        "rate": [90,120],
+                        "brand": "vivo",
+                        "model": "V2243A",
+                        "device": ""
+                    }
+                ]
+            },
+            {
+                "package": "com.tencent.KiHan",
+                "tweaker" : [
+                    {
+                        "rate": [90,120],
+                        "brand": "vivo",
+                        "model": "V2218A",
+                        "device": ""
+                    }
+                ]
+            },
+            {
+                "package": "com.tencent.tmgp.cf",
+                "tweaker" : [
+                    {
+                        "rate": [90,120],
+                        "brand": "nubia",
+                        "model": "NX729J",
+                        "device": ""
+                    }
+                ]
+            },
+            {
+                "package": "com.tencent.tmgp.gnyx",
+                "tweaker" : [
+                    {
+                        "rate": 90,
+                        "brand": "vivo",
+                        "model": "V2227A",
+                        "device": ""
+                    }
+                ]
+            }
+        ],
+        "unity": [
+            {
+                "package": ["com.riotgames.league.teamfighttactics", "com.tencent.jkchess"],
+                "settings": {
+                    "fps": 144,
+                    "time": 15,
+                    "width": 0,
+                    "height": 0,
+                    "lock_fps": false
+                }
+            }
+        ]
+    }
+}
