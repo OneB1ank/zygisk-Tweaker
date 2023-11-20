@@ -1,5 +1,8 @@
 # 【更新日志】
 
+## Beta2 2023.11.20
+- dobby替换UnityEngine.Application::set_targetFrameRate(System.Int32)实现帧率锁定
+
 ## Beta1 2023.11.18
 - JSON配置更合理
 
