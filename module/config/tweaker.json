@@ -160,16 +160,6 @@
                     "height": 0,
                     "lock_fps": false
                 }
-            },
-            {
-                "package": ["com.miHoYo.GenshinImpact", "com.miHoYo.Yuanshen"],
-                "settings": {
-                    "fps": 90,
-                    "time": 15,
-                    "width": 0,
-                    "height": 0,
-                    "lock_fps": false
-                }
             }
         ]
     }

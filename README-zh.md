@@ -112,8 +112,6 @@ game和unity的区别
 - QQ飞车(com.tencent.tmgp.speedmobile) [伪装] 支持144,120,90
 - 金铲铲之战(com.tencent.jkchess) [强制解锁] 默认144
 - TFT(com.riotgames.league.teamfighttactics) [强制解锁] 默认144
-- 原神(com.miHoYo.Yuanshen) [强制解锁] 默认90
-- Honkai Star Rail(com.miHoYo.GenshinImpact) [强制解锁] 默认90
 
 ## 🚀下载
 - [前往Github下载](https://github.com/OneB1ank/zygisk-Tweaker/releases)

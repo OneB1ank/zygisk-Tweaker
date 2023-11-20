@@ -113,8 +113,6 @@ If `refresh_rate` is set to 144, but the disguised device models do not support 
 - QQ飞车(com.tencent.tmgp.speedmobile) [disguise] 支持144,120,90
 - 金铲铲之战(com.tencent.jkchess) [FpsUnlock] 默认144
 - TFT(com.riotgames.league.teamfighttactics) [FpsUnlock] 默认144
-- 原神(com.miHoYo.Yuanshen) [FpsUnlock] 默认90
-- Honkai Star Rail(com.miHoYo.GenshinImpact) [FpsUnlock] 默认90
 
 ## 🚀Download
 - [Go to Github for download](https://github.com/OneB1ank/zygisk-Tweaker/releases)
