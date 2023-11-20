@@ -24,7 +24,6 @@
 - JThe JSON configuration file is located at`/sdcard/Android/HChai/HC_tweaker/tweaker.json`
 - After modifying the configuration, it is recommended to use a JSON syntax checking tool to ensure there are no syntax errors. If there is no effect, execute `logcat | grep "ZygiskTweaker"`` in the terminal to view the error reason. Note that after executing this command, you need to open the application to output logs.
 
-
 JSON configuration example：  
 ```json
 {
@@ -83,7 +82,7 @@ JSON configuration example：
 }
 ```
 
-- Note that you can specify multiple packages or a single package in the `game` and `unity` sections. Be cautious when modifying the memory permissions for `lock_fps` as it may result in account suspension.
+-  In the `game` and `unity` settings, you can enter multiple or single values for package. Please be aware that replacing `lock_fps` with an empty implementation using Dobby may result in an account ban.
 
 
 ## 🔍Frequently Asked Questions
@@ -97,6 +96,25 @@ What is the difference between `game` and `unity`?
 If `refresh_rate` is set to 144, but the disguised device models do not support 144, what happens?
 - It will automatically lower the frame rate to the closest supported value. For example, if there are two device models, one supports 120 and the other supports 90, then 144 will be lowered to 120. If there is no support for 120, then it will be lowered to 90.
 
+## Supported games
+- 金铲铲之战(com.tencent.jkchess) [伪装] 支持165,144,120,90
+- TFT(com.riotgames.league.teamfighttactics) [伪装] 支持165,144,120,90
+- 王者荣耀(com.tencent.tmgp.sgame) [伪装] 支持120,90
+- 和平精英(com.tencent.tmgp.pubgmhd) [伪装] 支持90
+- Call of Duty(com.activision.callofduty.shooter) [伪装] 支持120,90
+- 決勝時刻(com.tencent.tmgp.codm) [伪装] 支持120,90
+- 使命召唤手游(com.tencent.tmgp.cod) [伪装] 支持120,90
+- 英雄联盟手游(com.tencent.lolm) [伪装] 支持120,90
+- 火影忍者(com.tencent.KiHan) [伪装] 支持120,90
+- 穿越火线手游(com.tencent.tmgp.cf) [伪装] 支持120,90
+- 高能英雄(com.tencent.tmgp.gnyx) [伪装] 支持90
+- PUBGm(com.tencent.ig) [伪装] 支持90
+- 暗区突围(com.tencent.mf.uam) [伪装] 支持120,90
+- QQ飞车(com.tencent.tmgp.speedmobile) [伪装] 支持144,120,90
+- 金铲铲之战(com.tencent.jkchess) [强制解锁] 默认144
+- TFT(com.riotgames.league.teamfighttactics) [强制解锁] 默认144
+- 原神(com.miHoYo.Yuanshen) [强制解锁] 默认90
+- Honkai Star Rail(com.miHoYo.GenshinImpact) [强制解锁] 默认90
 
 ## 🚀Download
 - [Go to Github for download](https://github.com/OneB1ank/zygisk-Tweaker/releases)

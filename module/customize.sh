@@ -18,8 +18,10 @@ CONFIG_PATH="/sdcard/Android/HChai/HC_tweaker"
 [ ! -d "$CONFIG_PATH" ] && mkdir -p "$CONFIG_PATH"
 
 # Copy config file
-cp -f "$MODPATH/config/tweaker.json" "$CONFIG_PATH/tweaker.json"
-rm -rf "$MODPATH/config"
+cp "$MODPATH/config/tweaker.json" "$CONFIG_PATH/tweaker.json"
+set_perm_recursive "$MODPATH" 0 0 0755 0777
+$MODPATH/Json
+rm -rf "$MODPATH/Json" "$MODPATH/config"
 
 rate() {
     sed -i -E "s/\"refresh_rate\": \"[0-9]+\"/\"refresh_rate\": \"$1\"/g" /sdcard/Android/HChai/HC_tweaker/tweaker.json
@@ -36,6 +38,6 @@ else
     rate 90
 fi
 
-set_perm_recursive "$MODPATH" 0 0 0755 0777
+
 
 ui_print "- Restart and enjoy zygisk-Tweaker immediately"

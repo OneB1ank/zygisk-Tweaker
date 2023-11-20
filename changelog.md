@@ -1,5 +1,9 @@
 # 【更新日志】
 
+## Beta3 2023.11.20
+- 适配了更多游戏
+- 修复了注入提前卸载导致Unity模式失效的问题
+
 ## Beta2 2023.11.20
 - dobby替换UnityEngine.Application::set_targetFrameRate(System.Int32)实现帧率锁定
 
