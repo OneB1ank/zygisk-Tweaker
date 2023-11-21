@@ -84,7 +84,6 @@ JSON configuration example：
 
 -  In the `game` and `unity` settings, you can enter multiple or single values for package. Please be aware that replacing `lock_fps` with an empty implementation using Dobby may result in an account ban.
 
-
 ## 🔍Frequently Asked Questions
 
 Unity FPS unlock is not working or causing crashes
@@ -96,7 +95,7 @@ What is the difference between `game` and `unity`?
 If `refresh_rate` is set to 144, but the disguised device models do not support 144, what happens?
 - It will automatically lower the frame rate to the closest supported value. For example, if there are two device models, one supports 120 and the other supports 90, then 144 will be lowered to 120. If there is no support for 120, then it will be lowered to 90.
 
-## Supported games
+## 🏷️Supported games
 - 金铲铲之战(com.tencent.jkchess) [disguise] 支持165,144,120,90
 - TFT(com.riotgames.league.teamfighttactics) [disguise] 支持165,144,120,90
 - 王者荣耀(com.tencent.tmgp.sgame) [disguise] 支持120,90

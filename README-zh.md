@@ -96,6 +96,7 @@ game和unity的区别
 - 会自动降低到最接近的帧率，比如有两个机型，一个是120，一个是90，那么144会降低到120，如果没有120，那么会降低到90。
 
 
+## 🏷️默认配置游戏
 - 金铲铲之战(com.tencent.jkchess) [伪装] 支持165,144,120,90
 - TFT(com.riotgames.league.teamfighttactics) [伪装] 支持165,144,120,90
 - 王者荣耀(com.tencent.tmgp.sgame) [伪装] 支持120,90
