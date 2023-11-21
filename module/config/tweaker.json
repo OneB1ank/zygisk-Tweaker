@@ -6,7 +6,7 @@
     "modules": {
         "settings": {
             "fps_unlock": true,
-            "refresh_rate": "144"
+            "refresh_rate": "120"
         },
         "game": [
             {
@@ -154,7 +154,7 @@
             {
                 "package": ["com.riotgames.league.teamfighttactics", "com.tencent.jkchess"],
                 "settings": {
-                    "fps": 144,
+                    "fps": 120,
                     "time": 15,
                     "width": 0,
                     "height": 0,
