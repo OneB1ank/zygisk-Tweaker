@@ -72,7 +72,7 @@
                 ]
             },
             {
-                "package": "com.tencent.lolm",
+                "package": ["com.tencent.lolm","com.riotgames.league.wildrift"],
                 "tweaker" : [
                     {
                         "rate": [90,120],

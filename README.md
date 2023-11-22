@@ -104,6 +104,7 @@ If `refresh_rate` is set to 144, but the disguised device models do not support 
 - 決勝時刻(com.tencent.tmgp.codm) [disguise] 支持120,90
 - 使命召唤手游(com.tencent.tmgp.cod) [disguise] 支持120,90
 - 英雄联盟手游(com.tencent.lolm) [disguise] 支持120,90
+- League of Legends: Wild Rift(com.riotgames.league.wildrift) [disguise] 支持120,90
 - 火影忍者(com.tencent.KiHan) [disguise] 支持120,90
 - 穿越火线手游(com.tencent.tmgp.cf) [disguise] 支持120,90
 - 高能英雄(com.tencent.tmgp.gnyx) [disguise] 支持90
