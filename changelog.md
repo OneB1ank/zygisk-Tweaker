@@ -4,6 +4,7 @@
 - 更新ndk到r26b
 - 更新hllvm混淆
 - 增加了一些游戏的适配
+- 修复Json配置合并问题
 
 ## Beta6 2023.11.22
 - 使用shadowhook替换dobby
