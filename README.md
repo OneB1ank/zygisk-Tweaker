@@ -111,8 +111,9 @@ If `refresh_rate` is set to 144, but the disguised device models do not support 
 - PUBGm(com.tencent.ig) [disguise] 支持90
 - 暗区突围(com.tencent.mf.uam) [disguise] 支持120,90
 - QQ飞车(com.tencent.tmgp.speedmobile) [disguise] 支持144,120,90
-- 金铲铲之战(com.tencent.jkchess) [FpsUnlock] 默认144
-- TFT(com.riotgames.league.teamfighttactics) [FpsUnlock] 默认144
+- 香肠派对(com.sofunny.Sausage) [FpsUnlock] 默认120
+- 金铲铲之战(com.tencent.jkchess) [FpsUnlock] 默认120
+- TFT(com.riotgames.league.teamfighttactics) [FpsUnlock] 默认120
 
 ## 🚀Download
 - [Go to Github for download](https://github.com/OneB1ank/zygisk-Tweaker/releases)

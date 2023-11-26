@@ -152,7 +152,7 @@
         ],
         "unity": [
             {
-                "package": ["com.riotgames.league.teamfighttactics", "com.tencent.jkchess"],
+                "package": ["com.riotgames.league.teamfighttactics", "com.tencent.jkchess", "com.sofunny.Sausage"],
                 "settings": {
                     "fps": 120,
                     "time": 15,

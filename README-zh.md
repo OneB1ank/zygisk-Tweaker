@@ -111,8 +111,9 @@ game和unity的区别
 - PUBGm(com.tencent.ig) [伪装] 支持90
 - 暗区突围(com.tencent.mf.uam) [伪装] 支持120,90
 - QQ飞车(com.tencent.tmgp.speedmobile) [伪装] 支持144,120,90
-- 金铲铲之战(com.tencent.jkchess) [强制解锁] 默认144
-- TFT(com.riotgames.league.teamfighttactics) [强制解锁] 默认144
+- 香肠派对(com.sofunny.Sausage) [强制解锁] 默认120
+- 金铲铲之战(com.tencent.jkchess) [强制解锁] 默认120
+- TFT(com.riotgames.league.teamfighttactics) [强制解锁] 默认120
 
 ## 🚀下载
 - [前往Github下载](https://github.com/OneB1ank/zygisk-Tweaker/releases)
