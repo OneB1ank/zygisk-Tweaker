@@ -33,12 +33,12 @@
                 ]
             },
             {
-                "package": "com.tencent.tmgp.sgame",
+                "package": ["com.tencent.tmgp.sgame", "com.levelinfinite.sgameGlobal"],
                 "tweaker" : [
                     {
                         "rate": 120,
-                        "brand": "Nubia",
-                        "model": "NX729J",
+                        "brand": "vivo",
+                        "model": "V2254A",
                         "device": ""
                     },
                     {
@@ -50,7 +50,7 @@
                 ]
             },
             {
-                "package": ["com.tencent.tmgp.pubgmhd","com.tencent.ig"],
+                "package": "com.tencent.tmgp.pubgmhd",
                 "tweaker" : [
                     {
                         "rate": 90,
@@ -61,7 +61,18 @@
                 ]
             },
             {
-                "package": ["com.activision.callofduty.shooter","com.garena.game.codm","com.tencent.tmgp.cod"],
+                "package": "com.tencent.ig",
+                "tweaker" : [
+                    {
+                        "rate": 90,
+                        "brand": "Xiaomi",
+                        "model": "M2102K1G",
+                        "device": ""
+                    }
+                ]
+            },
+            {
+                "package": ["com.activision.callofduty.shooter","com.garena.game.codm","com.tencent.tmgp.cod","com.vng.codmvn", "com.garena.game.codm", "com.tencent.tmgp.kr.codm"],
                 "tweaker" : [
                     {
                         "rate": [90,120],
@@ -146,6 +157,94 @@
                         "brand": "Xiaomi",
                         "model": "M2102K1C",
                         "device": "" 
+                    }
+                ]
+            },
+            {
+                "package": "com.madfingergames.legends",
+                "tweaker" : [
+                    {
+                        "rate": [90,120],
+                        "brand": "Asus",
+                        "model": "ASUS_AI2201",
+                        "device": ""
+                    }
+                ]
+            },
+            {
+                "package": ["com.pearlabyss.blackdesertm", "com.pearlabyss.blackdesertm.gl"],
+                "tweaker" : [
+                    {
+                        "rate": [90,120],
+                        "brand": "Asus",
+                        "model": "ASUS_I003D",
+                        "device": ""
+                    }
+                ]
+            },
+            {
+                "package": "com.pubg.imobile",
+                "tweaker" : [
+                    {
+                        "rate": 90,
+                        "brand": "Xiaomi",
+                        "model": "M2006J10C",
+                        "device": ""
+                    }
+                ]
+            },
+            {
+                "package": ["com.dts.freefiremax", "com.dts.freefireth"],
+                "tweaker" : [
+                    {
+                        "rate": 90,
+                        "brand": "Xiaomi",
+                        "model": "23049PCD8G",
+                        "device": ""
+                    }
+                ]
+            },
+            {
+                "package": ["com.ea.gp.fifamobile", "com.gameloft.android.ANMP.GloftA9HM"],
+                "tweaker" : [
+                    {
+                        "rate": 90,
+                        "brand": "asus",
+                        "model": "ASUS_AI2201",
+                        "device": "AI2201"
+                    }
+                ]
+            },
+            {
+                "package": ["com.ea.gp.apexlegendsmobilefps", "com.levelinfinite.hotta.gp", "com.mobile.legends", "com.mobilelegends.mi", "com.supercell.clashofclans", "com.vng.mlbbvn"],
+                "tweaker" : [
+                    {
+                        "rate": 90,
+                        "brand": "Xiaomi",
+                        "model": "21081111RG",
+                        "device": ""
+                    }
+                ]
+            },
+            {
+                "package": ["com.netease.lztgglobal", "com.pubg.krmobile", "com.rekoo.pubgm", "com.riotgames.league.wildrift", "com.riotgames.league.wildrifttws", "com.riotgames.league.wildriftvn","com.vng.pubgmobile"],
+                "tweaker" : [
+                    {
+                        "rate": 90,
+                        "brand": "OnePlus",
+                        "model": "IN2020",
+                        "device": ""
+                    }
+                ]
+            },
+            {
+                "package": ["com.epicgames.fortnite", "com.epicgames.portal"],
+                "tweaker" : [
+                    {
+                        "rate": 90,
+                        "brand": "OnePlus",
+                        "model": "LE2101",
+                        "device": ""
                     }
                 ]
             }

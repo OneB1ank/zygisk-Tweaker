@@ -96,24 +96,42 @@ If `refresh_rate` is set to 144, but the disguised device models do not support 
 - It will automatically lower the frame rate to the closest supported value. For example, if there are two device models, one supports 120 and the other supports 90, then 144 will be lowered to 120. If there is no support for 120, then it will be lowered to 90.
 
 ## 🏷️Supported games
-- 金铲铲之战(com.tencent.jkchess) [disguise] 支持165,144,120,90
-- TFT(com.riotgames.league.teamfighttactics) [disguise] 支持165,144,120,90
-- 王者荣耀(com.tencent.tmgp.sgame) [disguise] 支持120,90
-- 和平精英(com.tencent.tmgp.pubgmhd) [disguise] 支持90
-- Call of Duty(com.activision.callofduty.shooter) [disguise] 支持120,90
-- 決勝時刻(com.tencent.tmgp.codm) [disguise] 支持120,90
-- 使命召唤手游(com.tencent.tmgp.cod) [disguise] 支持120,90
-- 英雄联盟手游(com.tencent.lolm) [disguise] 支持120,90
-- League of Legends: Wild Rift(com.riotgames.league.wildrift) [disguise] 支持120,90
-- 火影忍者(com.tencent.KiHan) [disguise] 支持120,90
-- 穿越火线手游(com.tencent.tmgp.cf) [disguise] 支持120,90
-- 高能英雄(com.tencent.tmgp.gnyx) [disguise] 支持90
-- PUBGm(com.tencent.ig) [disguise] 支持90
-- 暗区突围(com.tencent.mf.uam) [disguise] 支持120,90
-- QQ飞车(com.tencent.tmgp.speedmobile) [disguise] 支持144,120,90
-- 香肠派对(com.sofunny.Sausage) [FpsUnlock] 默认120
-- 金铲铲之战(com.tencent.jkchess) [FpsUnlock] 默认120
-- TFT(com.riotgames.league.teamfighttactics) [FpsUnlock] 默认120
+- 金铲铲之战(com.tencent.jkchess) [disguise] Supports 165,144,120,90
+- TFT(com.riotgames.league.teamfighttactics) [disguise] Supports 165,144,120,90
+- 王者荣耀(com.tencent.tmgp.sgame) [disguise] Supports 120,90
+- 和平精英(com.tencent.tmgp.pubgmhd) [disguise] Supports 90
+- Call of Duty: Mobile(com.activision.callofduty.shooter) [disguise] Supports 120,90
+- 決勝時刻(com.tencent.tmgp.codm) [disguise] Supports 120,90
+- 使命召唤手游(com.tencent.tmgp.cod) [disguise] Supports 120,90
+- Call of Duty: Mobile - VNG(com.vng.codmvn) [disguise] Supports 120,90
+- Call of Duty: Mobile - Garena(com.garena.game.codm) [disguise] Supports 120,90
+- Call of Duty: Mobile - Tencent(com.tencent.tmgp.kr.codm) [disguise] Supports 120,90
+- 英雄联盟手游(com.tencent.lolm) [disguise] Supports 120,90
+- League of Legends: Wild Rift(com.riotgames.league.wildrift) [disguise] Supports 120,90
+- 火影忍者(com.tencent.KiHan) [disguise] Supports 120,90
+- 穿越火线手游(com.tencent.tmgp.cf) [disguise] Supports 120,90
+- 高能英雄(com.tencent.tmgp.gnyx) [disguise] Supports 90
+- PUBGm(com.tencent.ig) [disguise] Supports 90
+- 暗区突围(com.tencent.mf.uam) [disguise] Supports 120,90
+- QQ飞车(com.tencent.tmgp.speedmobile) [disguise] Supports 144,120,90
+- Shadowgun Legends(com.madfingergames.legends) [disguise] Supports 120,90
+- Black Desert Mobile(com.pearlabyss.blackdesertm,com.pearlabyss.blackdesertm.gl) [disguise] Supports 120,90
+- Battlegrounds Mobile India(com.pubg.imobile) [disguise] Supports 90
+- Free Fire MAX(com.dts.freefiremax) [disguise] Supports high frame rate
+- Garena Free Fire(com.dts.freefireth) [disguise] Supports high frame rate
+- FIFA Mobile Soccer(com.ea.gp.fifamobile) [disguise] Supports high frame rate
+- Asphalt 9: Legends(com.gameloft.android.ANMP.GloftA9HM) [disguise] Supports high frame rate
+- Apex Legends Mobile(com.ea.gp.apexlegendsmobilefps) [disguise] Supports high frame rate
+- Tower of Fantasy(com.levelinfinite.hotta.gp) [disguise] Supports high frame rate
+- Mobile Legends: Bang Bang(com.mobile.legends,com.mobilelegends.mi,com.vng.mlbbvn) [disguise] Supports high frame rate
+- Cyber Hunter(com.netease.lztgglobal) [disguise] Supports high frame rate
+- PUBG MOBILE(com.pubg.krmobile,com.rekoo.pubgm,com.vng.pubgmobile) [disguise] Supports 90
+- League of Legends: Wild Rift(com.riotgames.league.wildrift,com.riotgames.league.wildrifttws,com.riotgames.league.wildriftvn) [disguise] Supports high frame rate
+- Clash of Clans(com.supercell.clashofclans) [disguise] Supports high frame rate
+- Fortnite(com.epicgames.fortnite,com.epicgames.portal) [disguise] Supports high frame rate
+- 香肠派对(com.sofunny.Sausage) [FpsUnlock] Default 120
+- 金铲铲之战(com.tencent.jkchess) [FpsUnlock] Default 120
+- TFT(com.riotgames.league.teamfighttactics) [FpsUnlock] Default 120
 
 ## 🚀Download
 - [Go to Github for download](https://github.com/OneB1ank/zygisk-Tweaker/releases)

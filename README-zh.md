@@ -100,9 +100,12 @@ game和unity的区别
 - TFT(com.riotgames.league.teamfighttactics) [伪装] 支持165,144,120,90
 - 王者荣耀(com.tencent.tmgp.sgame) [伪装] 支持120,90
 - 和平精英(com.tencent.tmgp.pubgmhd) [伪装] 支持90
-- Call of Duty(com.activision.callofduty.shooter) [伪装] 支持120,90
+- Call of Duty: Mobile(com.activision.callofduty.shooter) [伪装] 支持120,90
 - 決勝時刻(com.tencent.tmgp.codm) [伪装] 支持120,90
 - 使命召唤手游(com.tencent.tmgp.cod) [伪装] 支持120,90
+- Call of Duty: Mobile - VNG(com.vng.codmvn) [伪装] 支持120,90
+- Call of Duty: Mobile - Garena(com.garena.game.codm) [伪装] 支持120,90
+- Call of Duty: Mobile - Tencent(com.tencent.tmgp.kr.codm) [伪装] 支持120,90
 - 英雄联盟手游(com.tencent.lolm) [伪装] 支持120,90
 - League of Legends: Wild Rift(com.riotgames.league.wildrift) [伪装] 支持120,90
 - 火影忍者(com.tencent.KiHan) [伪装] 支持120,90
@@ -111,6 +114,21 @@ game和unity的区别
 - PUBGm(com.tencent.ig) [伪装] 支持90
 - 暗区突围(com.tencent.mf.uam) [伪装] 支持120,90
 - QQ飞车(com.tencent.tmgp.speedmobile) [伪装] 支持144,120,90
+- Shadowgun Legends(com.madfingergames.legends) [伪装] 支持120,90
+- Black Desert Mobile(com.pearlabyss.blackdesertm,com.pearlabyss.blackdesertm.gl) [伪装] 支持120,90
+- Battlegrounds Mobile India(com.pubg.imobile) [伪装] 支持90
+- Free Fire MAX(com.dts.freefiremax) [伪装] 支持高帧率
+- Garena Free Fire(com.dts.freefireth) [伪装] 支持高帧率
+- FIFA Mobile Soccer(com.ea.gp.fifamobile) [伪装] 支持高帧率
+- Asphalt 9: Legends(com.gameloft.android.ANMP.GloftA9HM) [伪装] 支持高帧率
+- Apex Legends Mobile(com.ea.gp.apexlegendsmobilefps) [伪装] 支持高帧率
+- Tower of Fantasy(com.levelinfinite.hotta.gp) [伪装] 支持高帧率
+- Mobile Legends: Bang Bang(com.mobile.legends,com.mobilelegends.mi,com.vng.mlbbvn) [伪装] 支持高帧率
+- Cyber Hunter(com.netease.lztgglobal) [伪装] 支持高帧率
+- PUBG MOBILE(com.pubg.krmobile,com.rekoo.pubgm,com.vng.pubgmobile) [伪装] 支持90
+- League of Legends: Wild Rift(com.riotgames.league.wildrift,com.riotgames.league.wildrifttws,com.riotgames.league.wildriftvn) [伪装] 支持高帧率
+- Clash of Clans(com.supercell.clashofclans) [伪装] 支持高帧率
+- Fortnite(com.epicgames.fortnite,com.epicgames.portal) [伪装] 支持高帧率
 - 香肠派对(com.sofunny.Sausage) [强制解锁] 默认120
 - 金铲铲之战(com.tencent.jkchess) [强制解锁] 默认120
 - TFT(com.riotgames.league.teamfighttactics) [强制解锁] 默认120

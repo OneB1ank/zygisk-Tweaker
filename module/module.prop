@@ -1,8 +1,8 @@
 id=zygisk_tweaker
 name=Zygisk - Tweaker
-version=v1 (2023.11.26)
-versionCode=7
+version=v1 (2023.11.28)
+versionCode=8
 author=HChai
 description=读取Json配置来对指定应用伪装机型解锁游戏高帧率，自动获取本机刷新率来伪装适合的机型，对unity游戏call函数可自定义fps和分辨率。zygisk实现不易被检测。
-updateJson=https://ghproxy.com/https://raw.githubusercontent.com/OneB1ank/zygisk-Tweaker/main/version.json
+updateJson=https://mirror.ghproxy.com/https://raw.githubusercontent.com/OneB1ank/zygisk-Tweaker/main/version.json
 originalAuthor=HChai
