@@ -79,6 +79,12 @@
                         "brand": "Lenovo",
                         "model": "Lenovo TB-9707F",
                         "device": ""
+                    },
+                    {
+                        "rate": 144,
+                        "brand": "vivo",
+                        "model": "V2254A",
+                        "device": ""
                     }
                 ]
             },
